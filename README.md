@@ -15,5 +15,7 @@
     <img align="center" alt="Node_JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br>
 
-Estudante de programação e apaixonado por tecnologia.<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdiaz7&layout=donut)]
+
+Apaixonado por tecnologia e o mundo da programação.<br>
 ## “Porque qualquer um pode pensar como um gênio.” – HAWKING, S.
