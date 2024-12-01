@@ -144,4 +144,4 @@
 <br/>
 <br/>
 
-**`Porque qualquer um pode pensar como um gênio.” – HAWKING, S.`**
+**`"Porque qualquer um pode pensar como um gênio.” – HAWKING, S.`**
